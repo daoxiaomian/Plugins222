@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="pluginame">上帝模式</string>
+    
+    <string name="cheat_mulMoney1">加生命 100</string>
+    <string name="cheat_mulMoney2">加生命 500</string>
+</resources>
